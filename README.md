@@ -1,6 +1,14 @@
 # Scheduling-Algorithms-Operating-System
 A single menu driven C program to simulate the following CPU scheduling algorithms to find turnaround time and waiting time and also display gantt chart for the same.
+
+The projrct objectives:
+Implemented various Scheduling Algorithms for project optimization.
+Created the project using C with the use of structure , linked list, queue and etc.
+Analyzed and compared the performance of each algorithm using real-world data
+
+
 CPU Scheduling Algorithm Simulation
+
 This project is a C program that simulates various CPU scheduling algorithms to calculate turnaround time, waiting time, and display a Gantt chart. The following scheduling algorithms are implemented:
 
 1) First-Come First-Served (FCFS)

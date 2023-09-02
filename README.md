@@ -28,7 +28,7 @@ Installation guide:
 
 Just download main.c file and run it in any development editor you use ( prefer vscode ).
 
-You can give input in input.txt file and program itself take input form file and you just need to run thr code.
+You can give input in process.txt file and program itself take input form file and you just need to run thr code.
 
 Output is stored in output.txt file and also display in your code terminal.
 
